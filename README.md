@@ -1,6 +1,8 @@
 # simple-model-inversion
 My attempt to recreate the attack described in "Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures" by Fredrikson et al. in 2015 using Tensorflow 2.9.1
 
+This was my first time using virtual enviroments, tensorflow and any python ML related libraries. For this reason I experimented with different abstractions for training models in tensorflow.
+
 Link to original paper: https://dl.acm.org/doi/10.1145/2810103.2813677
 
 Inspired by: https://github.com/Djiffit/face-decoding-with-model-inversion

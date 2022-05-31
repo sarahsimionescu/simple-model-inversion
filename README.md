@@ -7,7 +7,7 @@ My attempt to recreate the attack described in "Model Inversion Attacks that Exp
     * Activate the enviroment: env\Scripts\activate
     * Deactivate the enviroment (afterwards): deactivate
 2. Active the enviroment and pip install packages to fulfill **requirements.txt**
-3. Download and organize the training/testing data https://www.kaggle.com/datasets/kasikrit/att-database-of-faces?select=s1
+3. Unzip the training/testing data. Original images can be found here: https://www.kaggle.com/datasets/kasikrit/att-database-of-faces?select=s1
    * faces
       * faces/training *(9 photos per person in each directory)*
           * faces/training/s1

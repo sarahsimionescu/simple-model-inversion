@@ -7,7 +7,19 @@ My attempt to recreate the attack described in "Model Inversion Attacks that Exp
     * Activate the enviroment: env\Scripts\activate
     * Deactivate the enviroment (afterwards): deactivate
 2. Active the enviroment and pip install packages to fulfill **requirements.txt**
-3. Download the training data https://www.kaggle.com/datasets/kasikrit/att-database-of-faces?select=s1
+3. Download and organize the training/testing data https://www.kaggle.com/datasets/kasikrit/att-database-of-faces?select=s1
+   * faces
+      * faces/training *(9 photos per person in each directory)*
+          * faces/training/s1
+          * faces/training/s2
+          * ...
+          * faces/training/s40
+      * faces/testing *(1 photo per person in each directory)*
+          * faces/testing/s1
+          * faces/testing/s2
+          * ...
+          * faces/testing/s40
+
 5. Select your enviroment as the kernel for either Jupyter notebook and run each cell in order
 
 The output of the inversion will show you step-by-step the inversion taking place.

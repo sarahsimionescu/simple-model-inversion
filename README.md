@@ -7,7 +7,7 @@ Link to original paper: https://dl.acm.org/doi/10.1145/2810103.2813677
 
 Inspired by: https://github.com/Djiffit/face-decoding-with-model-inversion
 
-## Instructions for Use (using Pip and virtual Enviroments)
+## Instructions for Use (using Pip and Virtual Enviroments)
 1. *optional* Create a virtual enviroment to install all the required libraries for running the program
     * Create the enviroment: python -m venv env
     * Activate the enviroment: env\Scripts\activate

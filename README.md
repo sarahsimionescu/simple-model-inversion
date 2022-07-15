@@ -12,7 +12,7 @@ Inspired by: https://github.com/Djiffit/face-decoding-with-model-inversion
     * Create the enviroment: python -m venv env
     * Activate the enviroment: env\Scripts\activate
     * Deactivate the enviroment (afterwards): deactivate
-2. Active the enviroment and pip install packages to fulfill **requirements.txt**
+2. Activate the enviroment and pip install packages to fulfill **requirements.txt**
 3. Unzip the training/testing data. Original images can be found here: https://www.kaggle.com/datasets/kasikrit/att-database-of-faces?select=s1
    * faces
       * faces/training *(9 photos per person in each directory)*
